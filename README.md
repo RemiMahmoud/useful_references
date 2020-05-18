@@ -4,6 +4,10 @@
 
 https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article describing random forest algorithm
 
+## Regression
+
+https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
+https://core.ac.uk/download/pdf/20641325.pdf: a course on PLS, PCR
 
 
 # R programming
