@@ -9,6 +9,10 @@ https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article d
 https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
 https://core.ac.uk/download/pdf/20641325.pdf: a course on PLS, PCR
 
+## Mixed models
+
+https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the different specifications possibilities in GLMM.
+
 
 # R programming
 
