@@ -1,5 +1,9 @@
 # Statistics
 
+## Statistical tests
+http://www.rebeccabarter.com/blog/2018-12-04_hypothesis_testing/: A diagram to choose some statistical tests
+https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr: Another page with different statistical tests
+
 ## Machine learning
 
 https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article describing random forest algorithm
