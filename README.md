@@ -7,6 +7,7 @@ https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr
 ## Machine learning
 
 https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article describing random forest algorithm
+https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e : different cross validation techniques
 
 ## Regression
 
