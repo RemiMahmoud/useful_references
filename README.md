@@ -1,5 +1,10 @@
 # Statistics
 
+## Statistics with R
+
+https://www.flutterbys.com.au/stats/index.html: a wonderful site with resources about many topics (hypothesis testing, modeling) with frequentist and bayesian versions, and the corresponding R codes.
+
+
 ## Statistical tests
 http://www.rebeccabarter.com/blog/2018-12-04_hypothesis_testing/: A diagram to choose some statistical tests
 https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr: Another page with different statistical tests
