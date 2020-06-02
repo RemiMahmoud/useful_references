@@ -24,6 +24,8 @@ https://rpubs.com/mdhafer/autres_reg: a clear and exhaustive article on PLS (mat
 
 https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the different specifications possibilities in GLMM.
 
+https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
+
 
 # R programming
 
