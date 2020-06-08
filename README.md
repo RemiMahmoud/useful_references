@@ -34,3 +34,8 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 https://r4ds.had.co.nz/ : The holy bible for R
 
 https://thinkr.fr/hey-quoi-de-neuf-dplyr-le-point-sur-la-v1/ : New version of dplyr
+
+## Xaringan
+
+https://annakrystalli.me/talks/xaringan/xaringan.html#67: Clear presentation and tutorial on `xaringan`
+https://www.kirenz.com/slides/xaringan-demo-slides.html#1: Quasi exhaustive presentation on `xaringan`
