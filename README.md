@@ -39,3 +39,4 @@ https://thinkr.fr/hey-quoi-de-neuf-dplyr-le-point-sur-la-v1/ : New version of dp
 
 https://annakrystalli.me/talks/xaringan/xaringan.html#67: Clear presentation and tutorial on `xaringan`
 https://www.kirenz.com/slides/xaringan-demo-slides.html#1: Quasi exhaustive presentation on `xaringan`
+http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentation more about esthetic aspects of `xaringan`
