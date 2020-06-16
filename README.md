@@ -26,6 +26,9 @@ https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the
 
 https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
+## Alternatives
+
+https://thenode.biologists.com/user-friendly-p-values/research/: article on a user-friendly method as alternative to p-value
 
 # R programming
 
