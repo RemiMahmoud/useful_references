@@ -9,6 +9,12 @@ https://www.flutterbys.com.au/stats/index.html: a wonderful site with resources 
 http://www.rebeccabarter.com/blog/2018-12-04_hypothesis_testing/: A diagram to choose some statistical tests
 https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr: Another page with different statistical tests
 
+
+### Bayesian t test
+http://www.sumsar.net/blog/2014/02/bayesian-first-aid-two-sample-t-test/ : An explanation of BEST method
+https://stats.stackexchange.com/questions/104932/bayesian-alternative-or-complement-to-the-student-t-test: Other explanations
+https://stats.stackexchange.com/questions/130389/bayesian-equivalent-of-two-sample-t-test : Other explanations
+
 ## Machine learning
 
 https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article describing random forest algorithm
@@ -28,7 +34,9 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
 ## Alternatives
 
-https://thenode.biologists.com/user-friendly-p-values/research/: article on a user-friendly method as alternative to p-value
+https://thenode.biologists.com/user-friendly-p-values/research/: article on a user-friendly method as alternative to p-value when testing differences of means
+
+
 
 # R programming
 
