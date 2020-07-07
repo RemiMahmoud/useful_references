@@ -1,5 +1,10 @@
 # Statistics
 
+
+## Statistical methods
+
+https://lemakistatheux.wordpress.com/: encyclopedy with many statistical methods explained
+
 ## Statistics with R
 
 https://www.flutterbys.com.au/stats/index.html: a wonderful site with resources about many topics (hypothesis testing, modeling) with frequentist and bayesian versions, and the corresponding R codes.
@@ -36,6 +41,9 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
 https://thenode.biologists.com/user-friendly-p-values/research/: article on a user-friendly method as alternative to p-value when testing differences of means
 
+## Bayes
+
+http://sumsar.net/: Bayes for dummies
 
 
 # R programming
