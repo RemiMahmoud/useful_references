@@ -37,6 +37,8 @@ https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the
 
 https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
+http://sia.webpopix.org/lme.html: Example and mathematical definitions of mixed models
+
 ## Alternatives
 
 https://thenode.biologists.com/user-friendly-p-values/research/: article on a user-friendly method as alternative to p-value when testing differences of means
