@@ -46,7 +46,7 @@ https://thenode.biologists.com/user-friendly-p-values/research/: article on a us
 ## Bayes
 
 http://sumsar.net/: Bayes for dummies
-
+http://w3.mi.parisdescartes.fr/~ebirmele/depots/Enseignements/MCMC.pdf: MCMC lesson
 
 # R programming
 
