@@ -31,6 +31,10 @@ https://www.stat4decision.com/fr/regression-pls/: A short and clear article on P
 https://core.ac.uk/download/pdf/20641325.pdf: a course on PLS, PCR
 https://rpubs.com/mdhafer/autres_reg: a clear and exhaustive article on PLS (mathematics)
 
+## ANOVA
+
+http://www.rebeccabarter.com/blog/2017-02-17-anova/: ANOVA clearly explained
+
 ## Mixed models
 
 https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the different specifications possibilities in GLMM.
