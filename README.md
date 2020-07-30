@@ -43,6 +43,10 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
 http://sia.webpopix.org/lme.html: Example and mathematical definitions of mixed models
 
+## Time series
+
+https://petolau.github.io/ Blog with articles about TS
+
 ## Alternatives
 
 https://thenode.biologists.com/user-friendly-p-values/research/: article on a user-friendly method as alternative to p-value when testing differences of means
