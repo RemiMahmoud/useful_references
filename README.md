@@ -59,6 +59,9 @@ https://github.com/oliviergimenez/Bayesian_Workshop: Bayes from scratch to MCMC 
 https://chi-feng.github.io/mcmc-demo/: MCMC algorithms animated
 
 # R programming
+## Meta-book
+
+https://www.bigbookofr.com/career-community.html: A book containing a list of all useful books for R
 
 ## Dplyr
 
