@@ -43,6 +43,9 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
 http://sia.webpopix.org/lme.html: Example and mathematical definitions of mixed models
 
+https://towardsdatascience.com/a-bayesian-approach-to-linear-mixed-models-lmm-in-r-python-b2f1378c3ac8: a case-use for brm in R
+https://towardsdatascience.com/evaluating-bayesian-mixed-models-in-r-python-27d344a03016: Evaluating Bayesian mixed models in R
+
 ## Time series
 
 https://petolau.github.io/ Blog with articles about TS
