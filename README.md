@@ -47,6 +47,7 @@ https://towardsdatascience.com/when-mixed-effects-hierarchical-models-fail-pooli
 https://towardsdatascience.com/a-bayesian-approach-to-linear-mixed-models-lmm-in-r-python-b2f1378c3ac8: a case-use for brm in R
 https://towardsdatascience.com/evaluating-bayesian-mixed-models-in-r-python-27d344a03016: Evaluating Bayesian mixed models in R
 
+https://books.google.be/books?id=467ym_ivHMUC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false: Reference books on mixed effects models
 ## Time series
 
 https://petolau.github.io/ Blog with articles about TS
