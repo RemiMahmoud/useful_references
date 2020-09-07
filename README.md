@@ -43,6 +43,7 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 
 http://sia.webpopix.org/lme.html: Example and mathematical definitions of mixed models
 
+https://towardsdatascience.com/when-mixed-effects-hierarchical-models-fail-pooling-and-uncertainty-77e667823ae8: article about linear regression, multiple regression and mixed effects models.
 https://towardsdatascience.com/a-bayesian-approach-to-linear-mixed-models-lmm-in-r-python-b2f1378c3ac8: a case-use for brm in R
 https://towardsdatascience.com/evaluating-bayesian-mixed-models-in-r-python-27d344a03016: Evaluating Bayesian mixed models in R
 
