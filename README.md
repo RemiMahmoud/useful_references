@@ -44,10 +44,13 @@ https://psyarxiv.com/9vghm/: A clear and simple introduction on mixed models
 http://sia.webpopix.org/lme.html: Example and mathematical definitions of mixed models
 
 https://towardsdatascience.com/when-mixed-effects-hierarchical-models-fail-pooling-and-uncertainty-77e667823ae8: article about linear regression, multiple regression and mixed effects models.
+
 https://towardsdatascience.com/a-bayesian-approach-to-linear-mixed-models-lmm-in-r-python-b2f1378c3ac8: a case-use for brm in R
+
 https://towardsdatascience.com/evaluating-bayesian-mixed-models-in-r-python-27d344a03016: Evaluating Bayesian mixed models in R
 
 https://books.google.be/books?id=467ym_ivHMUC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false: Reference books on mixed effects models
+
 ## Time series
 
 https://petolau.github.io/ Blog with articles about TS
@@ -59,8 +62,11 @@ https://thenode.biologists.com/user-friendly-p-values/research/: article on a us
 ## Bayes
 
 http://sumsar.net/: Bayes for dummies
+
 http://w3.mi.parisdescartes.fr/~ebirmele/depots/Enseignements/MCMC.pdf: MCMC lesson
+
 https://github.com/oliviergimenez/Bayesian_Workshop: Bayes from scratch to MCMC in 300 slides
+
 https://chi-feng.github.io/mcmc-demo/: MCMC algorithms animated
 
 # R programming
@@ -77,5 +83,7 @@ https://thinkr.fr/hey-quoi-de-neuf-dplyr-le-point-sur-la-v1/ : New version of dp
 ## Xaringan
 
 https://annakrystalli.me/talks/xaringan/xaringan.html#67: Clear presentation and tutorial on `xaringan`
+
 https://www.kirenz.com/slides/xaringan-demo-slides.html#1: Quasi exhaustive presentation on `xaringan`
+
 http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentation more about esthetic aspects of `xaringan`
