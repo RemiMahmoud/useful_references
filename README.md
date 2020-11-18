@@ -93,3 +93,9 @@ http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentati
 ## ggplot
 
 https://github.com/abichat/tidytuesday: wonderful ggplots by abichat
+
+## Regular expressions
+
+https://www.garrickadenbuie.com/project/regexplain/: Package to know how to handle and test regular expressions.
+https://regexr.com/: Online test of regular expressions on R (with cheat sheet)
+https://abichat.github.io/slides/factors_dates_strings/#1: Lesson on regular expressions by abichat
