@@ -14,6 +14,9 @@ https://learningstatisticswithr.com/book/: a complete book for R, with base know
 http://www.rebeccabarter.com/blog/2018-12-04_hypothesis_testing/: A diagram to choose some statistical tests
 https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr: Another page with different statistical tests
 
+## Post-hoc comparison of means
+
+https://stats.stackexchange.com/questions/141856/what-is-the-difference-between-various-kruskal-wallis-post-hoc-tests/141872#141872: Summary of different methods to test for post-hoc differences of means of KW tests.
 
 ### Bayesian t test
 http://www.sumsar.net/blog/2014/02/bayesian-first-aid-two-sample-t-test/ : An explanation of BEST method
