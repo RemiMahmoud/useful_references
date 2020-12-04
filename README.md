@@ -97,6 +97,7 @@ http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentati
 
 https://github.com/abichat/tidytuesday: wonderful ggplots by abichat
 https://benjaminlouis-stat.fr/en/blog/2020-05-21-astuces-ggplot-rmarkdown/: tips to deal with `ggplot` and `rmarkdown`
+https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/: wonderful and complete article about ggplot
 
 ## Regular expressions
 
