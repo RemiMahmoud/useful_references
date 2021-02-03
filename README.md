@@ -58,6 +58,10 @@ https://towardsdatascience.com/evaluating-bayesian-mixed-models-in-r-python-27d3
 
 https://books.google.be/books?id=467ym_ivHMUC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false: Reference books on mixed effects models
 
+## Gaussian process
+
+https://distill.pub/2019/visual-exploration-gaussian-processes/: nice article about gaussian processes
+
 ## Time series
 
 https://petolau.github.io/ Blog with articles about TS
