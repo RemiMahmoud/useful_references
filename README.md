@@ -62,6 +62,15 @@ https://books.google.be/books?id=467ym_ivHMUC&printsec=frontcover&source=gbs_ge_
 
 https://distill.pub/2019/visual-exploration-gaussian-processes/: nice article about gaussian processes
 
+https://www.sciencedirect.com/science/article/pii/S0022249617302158: Scientific article about GP
+
+https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html: R package for GP
+
+## Splines
+
+https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3#:~:text=Cubic%20splines%20are%20created%20by,K%2B4%20degrees%20of%20freedom.: Review of R packages with splines
+https://cran.r-project.org/web/packages/santaR/vignettes/theoretical-background.html: R package and explanation of splines and parameters in R
+
 ## Time series
 
 https://petolau.github.io/ Blog with articles about TS
