@@ -116,6 +116,8 @@ https://github.com/abichat/tidytuesday: wonderful ggplots by abichat
 https://benjaminlouis-stat.fr/en/blog/2020-05-21-astuces-ggplot-rmarkdown/: tips to deal with `ggplot` and `rmarkdown`
 https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/: wonderful and complete article about ggplot
 
+https://ggplot2tutor.com/ : A bunch of tutorials on ggplot, really clear
+
 ## Regular expressions
 
 https://www.garrickadenbuie.com/project/regexplain/: Package to know how to handle and test regular expressions.
