@@ -8,10 +8,12 @@ https://lemakistatheux.wordpress.com/: encyclopedy with many statistical methods
 ## Statistics with R
 
 https://www.flutterbys.com.au/stats/index.html: a wonderful site with resources about many topics (hypothesis testing, modeling) with frequentist and bayesian versions, and the corresponding R codes.
+
 https://learningstatisticswithr.com/book/: a complete book for R, with base knowledge in statistics.
 
 ## Statistical tests
 http://www.rebeccabarter.com/blog/2018-12-04_hypothesis_testing/: A diagram to choose some statistical tests
+
 https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr: Another page with different statistical tests
 
 ## Post-hoc comparison of means
@@ -20,18 +22,23 @@ https://stats.stackexchange.com/questions/141856/what-is-the-difference-between-
 
 ### Bayesian t test
 http://www.sumsar.net/blog/2014/02/bayesian-first-aid-two-sample-t-test/ : An explanation of BEST method
+
 https://stats.stackexchange.com/questions/104932/bayesian-alternative-or-complement-to-the-student-t-test: Other explanations
+
 https://stats.stackexchange.com/questions/130389/bayesian-equivalent-of-two-sample-t-test : Other explanations
 
 ## Machine learning
 
 https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article describing random forest algorithm
+
 https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e : different cross validation techniques
 
 ## Regression
 
 https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
+
 https://core.ac.uk/download/pdf/20641325.pdf: a course on PLS, PCR
+
 https://rpubs.com/mdhafer/autres_reg: a clear and exhaustive article on PLS (mathematics)
 
 ### Non-linear regression
@@ -69,7 +76,10 @@ https://cran.r-project.org/web/packages/GauPro/vignettes/GauPro.html: R package 
 ## Splines
 
 https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3#:~:text=Cubic%20splines%20are%20created%20by,K%2B4%20degrees%20of%20freedom.: Review of R packages with splines
+
 https://cran.r-project.org/web/packages/santaR/vignettes/theoretical-background.html: R package and explanation of splines and parameters in R
+
+http://www.stat.cmu.edu/~cshalizi/402/lectures/11-splines/lecture-11.pdf: clearest explanation of smoothing splines I've read so far
 
 ## Time series
 
