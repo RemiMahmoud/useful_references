@@ -135,3 +135,7 @@ https://www.garrickadenbuie.com/project/regexplain/: Package to know how to hand
 https://regexr.com/: Online test of regular expressions on R (with cheat sheet)
 
 https://abichat.github.io/slides/factors_dates_strings/#1: Lesson on regular expressions by abichat
+
+## Shiny
+
+https://www.charlesbordet.com/fr/reactive-shiny/#c-est-quoi-la-reactivite: Reactive in Shiny
