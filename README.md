@@ -81,6 +81,8 @@ https://cran.r-project.org/web/packages/santaR/vignettes/theoretical-background.
 
 http://www.stat.cmu.edu/~cshalizi/402/lectures/11-splines/lecture-11.pdf: clearest explanation of smoothing splines I've read so far
 
+https://www.stat.cmu.edu/~ryantibs/advmethods/notes/smoothspline.pdf: short and clear lesson about differents splines
+
 ## Time series
 
 https://petolau.github.io/ Blog with articles about TS
