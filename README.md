@@ -16,6 +16,8 @@ http://www.rebeccabarter.com/blog/2018-12-04_hypothesis_testing/: A diagram to c
 
 https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr: Another page with different statistical tests
 
+https://github.com/juba/archive_doc_khi2: Perfect explanation on chi-2 test
+
 ## Post-hoc comparison of means
 
 https://stats.stackexchange.com/questions/141856/what-is-the-difference-between-various-kruskal-wallis-post-hoc-tests/141872#141872: Summary of different methods to test for post-hoc differences of means of KW tests.
