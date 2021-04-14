@@ -124,6 +124,10 @@ https://www.kirenz.com/slides/xaringan-demo-slides.html#1: Quasi exhaustive pres
 
 http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentation more about esthetic aspects of `xaringan`
 
+## Share Rmd online
+
+https://rstudio-education.github.io/sharing-short-notice/#1: Tutorial on how to share Rmd online
+
 ## ggplot
 
 https://github.com/abichat/tidytuesday: wonderful ggplots by abichat
