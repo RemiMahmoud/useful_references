@@ -35,6 +35,8 @@ https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article d
 
 https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e : different cross validation techniques
 
+http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/: How to use `tidymodels` package to fit machine learning algorithms
+
 ## Regression
 
 https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
