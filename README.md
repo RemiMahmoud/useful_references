@@ -53,6 +53,10 @@ http://sia.webpopix.org/nonlinearRegression.html: Complete article about non-lin
 
 http://www.rebeccabarter.com/blog/2017-02-17-anova/: ANOVA clearly explained
 
+## Missing values
+
+http://cedric.cnam.fr/vertigo/Cours/ml/coursDonneesManquantes.html: A short and clear lesson about missing values
+
 ## Mixed models
 
 https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the different specifications possibilities in GLMM.
