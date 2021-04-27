@@ -5,6 +5,8 @@
 
 https://lemakistatheux.wordpress.com/: encyclopedy with many statistical methods explained
 
+http://cedric.cnam.fr/vertigo/Cours/ml/index.html: Many lessons with different statistical methods
+
 ## Statistics with R
 
 https://www.flutterbys.com.au/stats/index.html: a wonderful site with resources about many topics (hypothesis testing, modeling) with frequentist and bayesian versions, and the corresponding R codes.
