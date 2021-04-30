@@ -35,6 +35,8 @@ https://stats.stackexchange.com/questions/130389/bayesian-equivalent-of-two-samp
 
 https://vas3k.com/blog/machine_learning/: Wonderful article explaining principles of machine learning
 
+https://supervised-ml-course.netlify.app/: A nice lesson on how to practice machine learning
+
 https://towardsdatascience.com/random-forest-in-r-f66adf80ec9 : a nice article describing random forest algorithm
 
 https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e : different cross validation techniques
