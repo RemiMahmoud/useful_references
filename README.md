@@ -51,6 +51,9 @@ https://core.ac.uk/download/pdf/20641325.pdf: a course on PLS, PCR
 
 https://rpubs.com/mdhafer/autres_reg: a clear and exhaustive article on PLS (mathematics)
 
+## Model selection
+
+https://garthtarr.github.io/avfs/index.html: lessons about model selection in lm framework
 ### Non-linear regression
 
 http://sia.webpopix.org/nonlinearRegression.html: Complete article about non-linear regression
