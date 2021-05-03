@@ -66,6 +66,8 @@ http://www.rebeccabarter.com/blog/2017-02-17-anova/: ANOVA clearly explained
 
 http://cedric.cnam.fr/vertigo/Cours/ml/coursDonneesManquantes.html: A short and clear lesson about missing values
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659333/: Review about variable selection on imputed missing values
+
 ## Mixed models
 
 https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html: A complete pages on the different specifications possibilities in GLMM.
