@@ -51,6 +51,10 @@ https://core.ac.uk/download/pdf/20641325.pdf: a course on PLS, PCR
 
 https://rpubs.com/mdhafer/autres_reg: a clear and exhaustive article on PLS (mathematics)
 
+## Slice-inversed regression
+
+https://tel.archives-ouvertes.fr/tel-01571824v2/document: A PhD on slice-inversed regression
+
 ## Model selection
 
 https://garthtarr.github.io/avfs/index.html: lessons about model selection in lm framework
