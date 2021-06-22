@@ -51,6 +51,8 @@ https://algotech.netlify.app/blog/xgboost/: Clear explanation on boosting and ba
 
 https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/: Difference between bagging and boosting
 
+https://www.business-science.io/code-tools/2020/01/21/hyperparamater-tune-product-price-prediction.html: Prediction and hyperparameter tuning using tidymodels
+
 ## Regression
 
 https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
