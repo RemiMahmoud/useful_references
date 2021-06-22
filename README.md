@@ -47,6 +47,8 @@ https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniqu
 
 http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/: How to use `tidymodels` package to fit machine learning algorithms
 
+https://algotech.netlify.app/blog/xgboost/: Clear explanation on boosting and bagging algorithm
+
 ## Regression
 
 https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
