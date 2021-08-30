@@ -165,6 +165,10 @@ http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentati
 
 https://rstudio-education.github.io/sharing-short-notice/#1: Tutorial on how to share Rmd online
 
+## Oriented-object programming
+
+https://eric.univ-lyon2.fr/~ricco/cours/slides/mecanisme_des_classes_sous_r.pdf: Nice tuto on S3-S4 classes in R
+
 ## ggplot
 
 https://github.com/abichat/tidytuesday: wonderful ggplots by abichat
