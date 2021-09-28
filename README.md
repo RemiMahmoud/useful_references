@@ -153,6 +153,10 @@ https://r4ds.had.co.nz/ : The holy bible for R
 
 https://thinkr.fr/hey-quoi-de-neuf-dplyr-le-point-sur-la-v1/ : New version of dplyr
 
+## Non-standard evaluation
+
+https://speakerdeck.com/hadley/tidy-evaluation-programming-with-ggplot2-and-dplyr?slide=74 : NSE by Hadley Wickham
+
 ## Xaringan
 
 https://annakrystalli.me/talks/xaringan/xaringan.html#67: Clear presentation and tutorial on `xaringan`
