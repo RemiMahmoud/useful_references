@@ -24,6 +24,8 @@ https://github.com/juba/archive_doc_khi2: Perfect explanation on chi-2 test
 
 https://personal.utdallas.edu/~herve/abdi-awPCA2010.pdf: Clear article about PCA
 
+https://lemakistatheux.wordpress.com/: Clear article about FPCA
+
 ## Post-hoc comparison of means
 
 https://stats.stackexchange.com/questions/141856/what-is-the-difference-between-various-kruskal-wallis-post-hoc-tests/141872#141872: Summary of different methods to test for post-hoc differences of means of KW tests.
