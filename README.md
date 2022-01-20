@@ -24,7 +24,7 @@ https://github.com/juba/archive_doc_khi2: Perfect explanation on chi-2 test
 
 https://personal.utdallas.edu/~herve/abdi-awPCA2010.pdf: Clear article about PCA
 
-https://lemakistatheux.wordpress.com/: Clear article about FPCA
+https://hal-enac.archives-ouvertes.fr/hal-01349113/file/RR_ENAC_2013_02.pdf: Clear article about FPCA
 
 ## Post-hoc comparison of means
 
