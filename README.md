@@ -194,3 +194,7 @@ https://abichat.github.io/slides/factors_dates_strings/#1: Lesson on regular exp
 ## Shiny
 
 https://www.charlesbordet.com/fr/reactive-shiny/#c-est-quoi-la-reactivite: Reactive in Shiny
+
+# Mathematics
+
+https://ahsanijaz.github.io/2018-09-04-less_travel/: A nice link with explanations on fundamental of mathematics for Data science
