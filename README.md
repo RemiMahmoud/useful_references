@@ -198,3 +198,7 @@ https://www.charlesbordet.com/fr/reactive-shiny/#c-est-quoi-la-reactivite: React
 # Mathematics
 
 https://ahsanijaz.github.io/2018-09-04-less_travel/: A nice link with explanations on fundamental of mathematics for Data science
+
+# Git
+
+https://towardsdatascience.com/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a : A link with simple explanation about different actions on git
