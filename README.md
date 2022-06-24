@@ -143,6 +143,10 @@ https://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/: Vi
 
 http://www.personal.psu.edu/lxx6/SIR.pdf: lesson on SIR
 
+## Blog
+
+https://linogaliana.netlify.app/: Nice blog
+
 
 # R programming
 ## Meta-book
