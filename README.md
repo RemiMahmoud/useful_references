@@ -9,6 +9,10 @@ http://cedric.cnam.fr/vertigo/Cours/ml/index.html: Many lessons with different s
 
 ## Statistics with R
 
+https://lakens.github.io/statistical_inferences/index.html : a complete book about statistical inference, explained clearly
+
+https://hbiostat.org/rflow/: A book with an R data procesing workflow
+
 https://www.flutterbys.com.au/stats/index.html: a wonderful site with resources about many topics (hypothesis testing, modeling) with frequentist and bayesian versions, and the corresponding R codes.
 
 https://learningstatisticswithr.com/book/: a complete book for R, with base knowledge in statistics.
