@@ -104,6 +104,8 @@ https://towardsdatascience.com/evaluating-bayesian-mixed-models-in-r-python-27d3
 
 https://books.google.be/books?id=467ym_ivHMUC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false: Reference books on mixed effects models
 
+https://schmidtpaul.github.io/MMFAIR/ : Interesting github page about different MM spec for agronomy
+
 ## Gaussian process
 
 https://distill.pub/2019/visual-exploration-gaussian-processes/: nice article about gaussian processes
