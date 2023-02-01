@@ -1,5 +1,7 @@
 # Statistics
 
+https://hbiostat.org/glossary/ : Glossary of many statistical words
+
 
 ## Statistical methods
 
