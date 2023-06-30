@@ -26,6 +26,8 @@ https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr
 
 https://github.com/juba/archive_doc_khi2: Perfect explanation on chi-2 test
 
+https://lindeloev.github.io/tests-as-linear/ : Explanation of correspondances between linear models and most statistical tests
+
 ## Principle component analysis
 
 https://personal.utdallas.edu/~herve/abdi-awPCA2010.pdf: Clear article about PCA
