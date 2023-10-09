@@ -148,6 +148,7 @@ https://chi-feng.github.io/mcmc-demo/: MCMC algorithms animated
 
 https://alexanderetz.com/2015/08/09/understanding-bayes-visualization-of-bf/: Visualisation of the bayes factor
 
+https://www.bayesrulesbook.com/ : Bayesian modeling from scratch, with associated R codes and quizz
 
 ## Slice inversed regression
 
