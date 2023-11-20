@@ -78,9 +78,14 @@ https://tel.archives-ouvertes.fr/tel-01571824v2/document: A PhD on slice-inverse
 ## Model selection
 
 https://garthtarr.github.io/avfs/index.html: lessons about model selection in lm framework
+
 ### Non-linear regression
 
 http://sia.webpopix.org/nonlinearRegression.html: Complete article about non-linear regression
+
+## logistic regression
+
+https://people.linguistics.mcgill.ca/~morgan/qmld-book/mixed-effects-logistic-regression.html: Short and clear article with examples on logistic regression with mixed effects
 
 ## ANOVA
 
