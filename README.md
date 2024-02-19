@@ -91,6 +91,8 @@ https://people.linguistics.mcgill.ca/~morgan/qmld-book/mixed-effects-logistic-re
 
 http://www.rebeccabarter.com/blog/2017-02-17-anova/: ANOVA clearly explained
 
+https://blog.msbstats.info/posts/2021-05-25-everything-about-anova/#anovas-in-r : Different types of ANOVA, clearly explained
+
 ## Missing values
 
 http://cedric.cnam.fr/vertigo/Cours/ml/coursDonneesManquantes.html: A short and clear lesson about missing values
