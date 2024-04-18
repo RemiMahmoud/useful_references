@@ -165,6 +165,13 @@ http://www.personal.psu.edu/lxx6/SIR.pdf: lesson on SIR
 
 https://linogaliana.netlify.app/: Nice blog
 
+## Environment 
+
+https://cran.r-project.org/web/views/Environmetrics.html : A summary of all R packages for environmental data
+
+## Datasets
+
+https://perso.univ-rennes1.fr/bernard.delyon/datasets.html : A big list of available datasets to analyze
 
 # R programming
 ## Meta-book
