@@ -2,6 +2,8 @@
 
 https://hbiostat.org/glossary/ : Glossary of many statistical words
 
+https://statproofbook.github.io/about/ : Book containing many statistical and probabilistic results, with their proof
+
 
 ## Statistical methods
 
