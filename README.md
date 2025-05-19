@@ -65,6 +65,10 @@ https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/: Diff
 
 https://www.business-science.io/code-tools/2020/01/21/hyperparamater-tune-product-price-prediction.html: Prediction and hyperparameter tuning using tidymodels
 
+## Deep learning
+
+https://github.com/cregouby/Tutoriel_torch : Torch tutorial from Christophe Regouby
+
 ## Regression
 
 https://www.stat4decision.com/fr/regression-pls/: A short and clear article on PLS.
@@ -201,6 +205,7 @@ http://www.biostatistics.dk/talks/CopenhagenRuseRs-2019/index.html#1: Presentati
 ## Quarto
 
 https://github.com/jthomasmock/quarto-presentation : Tutorials with nice syntax ideas for quarto presentations
+https://github.com/cregouby/Tutoriel_torch_slides/blob/main/index.qmd: Torch slides tutorial, nice for ideas
 
 
 ## Share Rmd online
